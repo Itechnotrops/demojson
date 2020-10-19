@@ -2,7 +2,7 @@
   "albums": [
     {
       "thumbnail": "https://www.gettyimages.in/detail/photo/young-man-at-sunset-royalty-free-image/496261146",
-      "albumName":"Album One"
+      "albumName":"Album One",
       "images":[
         {
           "imageUrl":"https://www.gettyimages.in/detail/photo/global-communication-network-royalty-free-image/1038383026",
@@ -12,7 +12,7 @@
     },
    {
       "thumbnail": "https://www.gettyimages.in/detail/photo/young-man-at-sunset-royalty-free-image/496261146",
-      "albumName":"Album Two"
+      "albumName":"Album Two",
       "images":[
         {
           "imageUrl":"https://www.gettyimages.in/detail/photo/global-communication-network-royalty-free-image/1038383026",
