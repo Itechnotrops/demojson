@@ -11,8 +11,26 @@
       ] 
     },
    {
-      "thumbnail": "https://www.gettyimages.in/detail/photo/young-man-at-sunset-royalty-free-image/496261146",
-      "albumName":"Album Two",
+      "thumbnail": "https://images.all-free-download.com/images/graphiclarge/child_and_nature_211127.jpg",
+      "albumName":"Album One",
+      "images":[
+        {
+          "imageUrl":"https://www.gettyimages.in/detail/photo/global-communication-network-royalty-free-image/1038383026",
+          "imageName":"Space Image"
+        }
+      ] 
+    },{
+      "thumbnail": "https://images.all-free-download.com/images/graphiclarge/child_and_nature_211127.jpg",
+      "albumName":"Album One",
+      "images":[
+        {
+          "imageUrl":"https://www.gettyimages.in/detail/photo/global-communication-network-royalty-free-image/1038383026",
+          "imageName":"Space Image"
+        }
+      ] 
+    },{
+      "thumbnail": "https://images.all-free-download.com/images/graphiclarge/child_and_nature_211127.jpg",
+      "albumName":"Album One",
       "images":[
         {
           "imageUrl":"https://www.gettyimages.in/detail/photo/global-communication-network-royalty-free-image/1038383026",
